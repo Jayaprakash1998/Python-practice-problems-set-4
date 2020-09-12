@@ -97,15 +97,6 @@ HINTS:
 
 
 
-
-
-
-
-
-
-
-
-
 # ANSWER:
 
 n,capacity = map(int,input().split())
